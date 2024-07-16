@@ -1,0 +1,2 @@
+# medsol
+Hospital Management system
